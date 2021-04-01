@@ -14,6 +14,10 @@ Learn how to run multiple machine learning models using lazy predict — code al
 
 Learn how to import the 40 most important libraries using PyForest
 
+**[How to Create Data Visualizations On Python With One Click](https://towardsdatascience.com/how-to-create-data-visualizations-on-python-with-one-click-f6bafbd8de54 "How to Create Data Visualizations On Python With One Click")**
+
+Learn how and why you should use the Lux library for your next Data Science project
+
 #### Repo Navigation:
 ```
 ├── .DS_Store
