@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ismael/Desktop/data_science/Blogs/Blogs-Testing-Notebook/titanic-survival-predictor/mlruns/1/a358e3b7e79a4614be117612d56f9ad0/artifacts
+end_time: 1617406676290
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a358e3b7e79a4614be117612d56f9ad0
+run_uuid: a358e3b7e79a4614be117612d56f9ad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1617406676191
+status: 3
+tags: []
+user_id: ismael
