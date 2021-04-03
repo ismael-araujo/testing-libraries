@@ -1,0 +1,4 @@
+artifact_location: file:///Users/ismael/Desktop/data_science/Blogs/Blogs-Testing-Notebook/titanic-survival-predictor/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: survived1
