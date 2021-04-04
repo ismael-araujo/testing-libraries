@@ -3,10 +3,10 @@
 
 So nice to see you here. I will be using this repo to test new cool libraries. So far, I have tested `PyForest`, `LazyPredict`, and `Lux`.
 
-Any questions? Reach me out on my **[LinkedIn](https://www.linkedin.com/in/ismael-araujo/ "LinkedIn")**.
+Any questions or suggestions? Reach me out on my **[LinkedIn](https://www.linkedin.com/in/ismael-araujo/ "LinkedIn")**.
 
 #### What I am up to:
-Currently, I'm working on this cool library called `PyCarat`. I will soon public a blog about it.
+Currently, I'm working on this cool library called `PyCarat`. I will publish it soon it on April 9th, 2021
 
 #### Blogs:
 **[How to Run 30 Machine Learning Models with 2 Lines of Code](https://towardsdatascience.com/how-to-run-30-machine-learning-models-with-2-lines-of-code-d0f94a537e52 "How to Run 30 Machine Learning Models with 2 Lines of Code")**
