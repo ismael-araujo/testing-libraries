@@ -1,7 +1,7 @@
 
 ### Hi there, 👋🏼
 
-So nice to see you here. I will be using this repo to test new cool libraries. So far, I have tested `PyForest`, `LazyPredict`, and `Lux`.
+So nice to see you here. I will be using this repo to test new cool libraries. So far, I have tested `PyForest`, `LazyPredict`, `Lux`, `PyCaret`, `QuickDA`.
 
 Any questions or suggestions? Reach me out on my **[LinkedIn](https://www.linkedin.com/in/ismael-araujo/ "LinkedIn")**.
 
