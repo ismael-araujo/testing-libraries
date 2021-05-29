@@ -25,6 +25,14 @@ Learn how to import the 40 most important libraries using PyForest
 
 Learn how and why you should use the Lux library for your next Data Science project
 
+**[Save Hours of Work Doing a Complete EDA With a Few Lines of Code With This Library](https://towardsdatascience.com/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257 "Save Hours of Work Doing a Complete EDA With a Few Lines of Code With This Library")**
+
+Learn how to do a use QuickDA for your next project and save hours of work
+
+**[How to Create Data Visualizations in Python With One Line of Code](https://towardsdatascience.com/how-to-create-data-visualizations-in-python-with-one-line-of-code-8cda1044fe69 "How to Create Data Visualizations in Python With One Line of Code")**
+
+Learn how to use QuickDA to create data visualizations with one line of code
+
 #### Repo Navigation:
 ```
 ├── Lambda – Contains the notebook where I show how to use Lambda functions
