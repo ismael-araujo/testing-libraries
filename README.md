@@ -13,6 +13,8 @@ Currently, I'm working on this cool library called `PyCarat`. I will publish it 
 
 Learn how to run multiple machine learning models using lazy predict — code along
 
+**[How to Run 40 Regression Models with a Few Lines of Code](https://towardsdatascience.com/how-to-run-40-regression-models-with-a-few-lines-of-code-5a24186de7d "How to Run 40 Regression Models with a Few Lines of Code")**
+
 **[How to Import All Python Libraries With One Line of Code](https://towardsdatascience.com/how-to-import-all-python-libraries-with-one-line-of-code-2b9e66a5879f "How to Import All Python Libraries With One Line of Code")**
 
 Learn how to import the 40 most important libraries using PyForest
