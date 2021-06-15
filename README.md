@@ -8,7 +8,7 @@ You will see some other folders with other libraries that I am working on it. So
 Any questions or suggestions? Reach me out on my **[LinkedIn](https://www.linkedin.com/in/ismael-araujo/ "LinkedIn")**.
 
 #### What I am up to:
-Currently, I'm working on this cool library called `PyCarat`. I will publish it soon it on April 9th, 2021
+Currently, I'm working on this cool library called `PyCarat`. I will publish it soon.
 
 #### Blogs:
 
