@@ -1,7 +1,7 @@
 
 ### Hi there, 👋🏼
 
-So nice to see you here. I will be using this repo to test new cool libraries. So far, I have tested `PyForest`, `LazyPredict`, `Lux`, `PyCaret`, `TextBlob`, and `QuickDA`.
+So nice to see you here. I will be using this repo to test new cool libraries. So far, I have tested `PyForest`, `LazyPredict`, `Lux`, `PyCaret`, `TextBlob`, `TPOT`, and `QuickDA`.
 
 You will see some other folders with other libraries that I am working on it. Soon, they will be good to go.
 
