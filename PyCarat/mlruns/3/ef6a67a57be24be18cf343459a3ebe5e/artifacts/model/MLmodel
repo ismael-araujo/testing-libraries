@@ -1,0 +1,30 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.6.9
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 0.23.2
+run_id: ef6a67a57be24be18cf343459a3ebe5e
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"name": "LIMIT_BAL", "type": "long"}, {"name": "SEX", "type": "long"},
+    {"name": "EDUCATION", "type": "long"}, {"name": "MARRIAGE", "type": "long"}, {"name":
+    "AGE", "type": "long"}, {"name": "PAY_1", "type": "long"}, {"name": "PAY_2", "type":
+    "long"}, {"name": "PAY_3", "type": "long"}, {"name": "PAY_4", "type": "long"},
+    {"name": "PAY_5", "type": "long"}, {"name": "PAY_6", "type": "long"}, {"name":
+    "BILL_AMT1", "type": "double"}, {"name": "BILL_AMT2", "type": "double"}, {"name":
+    "BILL_AMT3", "type": "double"}, {"name": "BILL_AMT4", "type": "double"}, {"name":
+    "BILL_AMT5", "type": "double"}, {"name": "BILL_AMT6", "type": "double"}, {"name":
+    "PAY_AMT1", "type": "double"}, {"name": "PAY_AMT2", "type": "double"}, {"name":
+    "PAY_AMT3", "type": "double"}, {"name": "PAY_AMT4", "type": "double"}, {"name":
+    "PAY_AMT5", "type": "double"}, {"name": "PAY_AMT6", "type": "double"}]'
+  outputs: null
+utc_time_created: '2021-04-03 03:39:10.408359'
